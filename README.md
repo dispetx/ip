@@ -1,4 +1,3 @@
-# ip
+# IP adresa
 
-Ime računala: dispet
-[Pogledaj IP-adresu!](ip-adresa)
+[dispet: IP adresa](ip-adresa)
