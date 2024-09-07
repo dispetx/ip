@@ -2,7 +2,7 @@
 # Upozorenje: Nije sigurno!
 
 [dispet: IP adresa](ip-adresa)
-
+Za odrediti lokaciju sa koje stizu zahtjevi moze se koristiti https://geolocation.com
 ```bash
 [dado@dispet html]$ sudo python -m http.server 80
 Serving HTTP on 0.0.0.0 port 80 (http://0.0.0.0:80/) ...
@@ -36,6 +36,12 @@ k205.210.31.40 - - [07/Sep/2024 21:32:19] "GET / HTTP/1.0" 200 -
 185.224.128.83 - - [07/Sep/2024 22:08:55] code 404, message File not found
 185.224.128.83 - - [07/Sep/2024 22:08:55] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 -
 83.97.73.245 - - [07/Sep/2024 22:09:40] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+93.174.93.12 - - [07/Sep/2024 22:17:20] "GET / HTTP/1.0" 200
+83.97.73.245 - - [07/Sep/2024 22:09:40] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
 93.174.93.12 - - [07/Sep/2024 22:17:20] "GET / HTTP/1.0" 200 -
-```
-
+141.98.11.48 - - [07/Sep/2024 22:25:40] code 501, message Unsupported method ('POST')
+141.98.11.48 - - [07/Sep/2024 22:25:40] "POST /boaform/admin/formLogin HTTP/1.1" 501 -
+47.252.21.165 - - [07/Sep/2024 22:29:25] code 404, message File not found
+47.252.21.165 - - [07/Sep/2024 22:29:25] "GET http://www.google.com/ HTTP/1.0" 404 -
+185.224.128.59 - - [07/Sep/2024 22:31:49] code 404, message File not found
+185.224.128.59 - - [07/Sep/2024 22:31:49] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404
