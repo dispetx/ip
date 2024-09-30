@@ -58,11 +58,11 @@ strategy of decomposing a problem into subproblems.
 In any case, the exact choice of a partition or partitions one is willing to
 consider is usually not obvious a priori. Although there are natural partitions,
 they may not be obvious. Thus, it is important to check if the partition is well
-choosen.
+chosen.
 
 In general, one can see any assumption or an implication to induce such an
 interface. Thus, it is equally important to check if the assumptions are
-well choosen too. The assumptions are arbitrary.
+well chosen too. The assumptions are arbitrary.
 
 **Public Domain**
 
