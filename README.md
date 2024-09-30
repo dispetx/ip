@@ -1,6 +1,6 @@
 # The Public Domain Programming Interface
 
-[IPv4: ](ip-address)
+[IPv4](ipaddress)
 
 Usernames:passwords
 
