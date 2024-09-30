@@ -91,4 +91,3 @@ them all.
 
 **Definition** *(The Public Domain Internet) The public domain internet is the set
 of all public internet hosts which satisfy axioms 1 and 2.*
-d nacin klonirate Dispetov Git repozitorij gk-dispet tada mozete uci u direktorij `dokumentacija/build/html` i pokreniti web server na vasem lokalnom racunalu ili na cijeloj vasoj lo
